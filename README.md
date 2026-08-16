@@ -15,7 +15,7 @@ Open to freelance work and remote roles.
 This repo hosts the source code for my personal portfolio website — a dark, animated,
 single-page site built from scratch with plain HTML, CSS, and JavaScript (no frameworks).
 
-**🔗 Live site:** _add your deployed link here, e.g. `https://usman-portfolio.vercel.app`_
+**🔗 Live site:**`https://usman-portfolio.vercel.app`_
 
 ---
 
